@@ -4,7 +4,7 @@ arr = [40,60]
 
 color=[
   {d1:"#08088c"},
-  {d1:"#f7ab07"},
+  {d1:"#eb8634"},
 ]
 
 svg = d3.select("body").append("svg")
